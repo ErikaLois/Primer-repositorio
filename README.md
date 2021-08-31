@@ -5,7 +5,7 @@
 ###### Soy Erika y estudio en la UNAHUR
 
 
-![imagen]()
+![imagen](foto.jpeg)
 
 Los lugares a donde voy son:
 * Trabajo
